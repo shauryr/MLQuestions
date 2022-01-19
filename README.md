@@ -332,6 +332,9 @@ The biggest difference between the the output of UMAP when compared with t-SNE i
 It generates a pseudo random number based on the seed and there are some famous algorithm, please see below link for further information on this.
 [[src]](https://en.wikipedia.org/wiki/Linear_congruential_generator)
 
+#### 64) Explain beam search.
+[[src]](https://towardsdatascience.com/foundations-of-nlp-explained-visually-beam-search-how-it-works-1586b9849a24)
+
 
 ## Contributions
 Contributions are most welcomed.
